@@ -1,0 +1,20 @@
+#social-media{
+    background: grey;
+}
+.media_link{
+    border: 2px solid yellow;
+    border-radius: 4px;
+    padding: 14px 18px;
+    margin-right: 14px;
+    background: transparent;
+}
+.row.pt-5{
+    gap: 10px;
+}
+.media_link h3{
+    font-weight: 900;
+    font-size: 15px;
+}
+.media_link.bg-warning{
+    border: 2px solid rgb(255, 255, 91);
+}
